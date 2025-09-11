@@ -8,12 +8,7 @@
 
 ## 🚀 Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,php,laravel,tailwind,mysql,vite,bootstrap)](https://skillicons.dev)
-
-<img src="https://raw.githubusercontent.com/laravel-livewire/art/master/livewire-logo.svg" width="50" alt="Livewire"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" width="50"/>
-
----
+## [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,php,laravel,tailwind,mysql,vite,bootstrap)](https://skillicons.dev)
 
 ## 📌 Projects Highlight
 
