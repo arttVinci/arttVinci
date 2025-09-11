@@ -40,3 +40,7 @@
 ---
 
 ![Profile views](https://komarev.com/ghpvc/?username=arttVinci&color=blue&style=flat)
+
+## 🐍 My Contributions Snake
+
+![GitHub Snake Dark](https://raw.githubusercontent.com/arttVinci/arttVinci/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
