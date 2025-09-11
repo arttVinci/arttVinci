@@ -43,4 +43,4 @@
 
 ## 🐍 My Contributions Snake
 
-![GitHub Snake Dark](https://raw.githubusercontent.com/arttVinci/arttVinci/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+<img src="https://raw.githubusercontent.com/arttVinci/arttVinci/output/snake.svg" alt="Snake Animation">
