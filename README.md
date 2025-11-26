@@ -17,15 +17,6 @@
 - 🛒 **E-Commerce Website** – Platform belanja online dengan fitur keranjang & pembayaran
 - 🌐 **Landing Page** – Website statis modern untuk branding & promosi
 
----
-
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=arttVinci&show_icons=true&theme=tokyonight" height="165"/>
-</p>
-
----
 
 ## 📫 Contact with Me
 
