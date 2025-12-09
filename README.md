@@ -10,13 +10,6 @@
 
 ## [![My Skills](https://skillicons.dev/icons?i=html,css,golang,javascript,react,php,laravel,tailwind,mysql,vite,postman,bootstrap)](https://skillicons.dev)
 
-## 📌 Projects Highlight
-
-- 🖥️ **Dashboard Admin** – Sistem manajemen berbasis web
-- 📚 **Sistem Informasi Akademik (SIM Akademik)** – Aplikasi sekolah untuk kelola data akademik
-- 🛒 **E-Commerce Website** – Platform belanja online dengan fitur keranjang & pembayaran
-- 🌐 **Landing Page** – Website statis modern untuk branding & promosi
-
 
 ## 📫 Contact with Me
 
