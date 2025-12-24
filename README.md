@@ -1,8 +1,7 @@
 ## 👋 Hi, I'm Putra Rizky
 
-🎓 Mahasiswa IT jurusan **Sistem Informasi** di Universitas Terbuka  
+🎓 Mahasiswa IT jurusan **Sistem Informasi**
 💻 Passionate in **Web Development**  
-🎯 Goal: Berkarier sebagai **Fullstack Engineer** di perusahaan startup teknologi terkemuka
 
 ---
 
