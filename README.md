@@ -1,11 +1,10 @@
 # 👋 Hi, I'm Putra Rizky
 
 🎓 **Information Systems Student**
+
 💻 Passionate about **Web Development**
 
 ---
-
-### 🚀 About Me
 
 🔭 **Currently exploring:**
 
@@ -15,16 +14,9 @@
 
 ---
 
-### 🛠️ Tech Stack
+### < /> Tech Stack
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,golang,javascript,react,php,laravel,tailwind,mysql,vite,postman,bootstrap,docker)](https://skillicons.dev)
-
-### 📊 GitHub Stats
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=arttVinci&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" alt="Putra's GitHub Stats" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arttVinci&layout=compact&theme=dark&hide_border=true&bg_color=00000000" alt="Top Languages" height="180"/>
-</p>
 
 ### 🐍 My Contributions
 
