@@ -7,7 +7,11 @@
 
 ### 🚀 About Me
 
-I'm [**Putra Rizky Nugraha**](#), an [**Information Systems**](#) student at [**Universitas Terbuka**](#) and a dedicated [**Fullstack Developer**](#) specializing in [**PHP (Laravel)**](#), [**Golang**](#), and [**React**](#). Passionate about [**Clean Code**](#) and [**scalable architecture**](#), I utilize modern tools like [**Docker**](#) and [**MySQL**](#) to build robust, user-centric digital solutions. As an active member of the [**Google Developer Group**](#).
+🔭 **Currently exploring:**
+
+* **Backend Development**: [**Golang**], [**PHP (Laravel)**]
+* **Frontend Technologies**: [**React**], [**Tailwind CSS**]
+* **Database & Container**: [**Docker**], [**MySQL**]
 
 ---
 
