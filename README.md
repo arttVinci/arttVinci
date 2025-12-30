@@ -7,9 +7,7 @@
 
 ### 🚀 About Me
 
-🌱 I’m currently exploring **Frontend Development** using **React.js** & **Tailwind CSS**.
-🛠️ For Backend, I focus on **Golang** and **PHP (Laravel)**.
-🐳 I also utilize **Docker** and **MySQL** for database and containerization.
+I'm [**Putra Rizky Nugraha**](#), an [**Information Systems**](#) student at [**Universitas Terbuka**](#) and a dedicated [**Fullstack Developer**](#) specializing in [**PHP (Laravel)**](#), [**Golang**](#), and [**React**](#). Passionate about [**Clean Code**](#) and [**scalable architecture**](#), I utilize modern tools like [**Docker**](#) and [**MySQL**](#) to build robust, user-centric digital solutions. As an active member of the [**Google Developer Group**](#).
 
 ---
 
