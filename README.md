@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Putra Rizky
+# 👋 Hi, I'm Putra Rizky N
 
 🎓 **Information Systems Student**
 
