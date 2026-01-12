@@ -10,7 +10,7 @@
 
 * **Backend Development**: [**Golang**], [**PHP (Laravel)**]
 * **Frontend Technologies**: [**React**], [**Tailwind CSS**]
-* **Database & Container**: [**Docker**], [**MySQL**]
+* **Database & Container**: [**MySQL**], [**Docker**]
 
 ---
 
