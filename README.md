@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Putra Rizky N.
 
-🎓 **Information Systems Student**
+🎓 **Tech Enthusiast**
 
 💻 Passionate about **Web Development**
 
