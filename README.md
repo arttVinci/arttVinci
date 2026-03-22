@@ -16,7 +16,7 @@
 
 ### < /> Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,golang,javascript,react,php,laravel,tailwind,mysql,vite,postman,bootstrap,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,golang,typescript,react,php,laravel,tailwind,mysql,vite,postman,bootstrap,docker)](https://skillicons.dev)
 
 ### 🐍 My Contributions
 
