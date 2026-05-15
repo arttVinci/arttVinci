@@ -9,7 +9,7 @@
 🔭 **Currently exploring:**
 
 * **Backend Development**: [**Golang**], [**PHP (Laravel)**]
-* **Frontend Technologies**: [**React**], [**Tailwind CSS**]
+* **Frontend Technologies**: [**Typescript**], [**React**]
 * **Database & Container**: [**MySQL**], [**Docker**]
 
 ---
