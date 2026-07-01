@@ -26,8 +26,6 @@ Ganti link "#" di atas dengan URL repo kamu.
 Kalau mau tampil otomatis sebagai pinned repo, gunakan fitur "Pin repositories" bawaan GitHub di bagian atas profil.
 -->
 
----
-
 ### < /> Tech Stack
 
 **Languages**
