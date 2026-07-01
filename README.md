@@ -63,7 +63,9 @@ Kalau mau tampil otomatis sebagai pinned repo, gunakan fitur "Pin repositories" 
 **AI-Agent Workflow**
 
 ![Trae](https://img.shields.io/badge/Trae-Multi--Agent_Workflow-8A2BE2?style=for-the-badge)
+
 ![Antigravity](https://img.shields.io/badge/Antigravity-Code_Review_%26_Debug-1E90FF?style=for-the-badge)
+
 ![Hermes](https://img.shields.io/badge/Hermes-Autonomous_MCP_Monitoring-FF8C00?style=for-the-badge)
 
 > 🧠 **Cara kerja memperbudak dengan AI Agent:**
