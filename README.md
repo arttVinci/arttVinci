@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Putra Rizky N.
 
-🎓 **Tech Enthusiast**
+**Tech Enthusiast**
 💻 Passionate about **Web Development**, **Fullstack Engineering**, and **AI-Agent-Driven Workflows**
 
 ---
