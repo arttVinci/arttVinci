@@ -65,7 +65,7 @@ Kalau mau tampil otomatis sebagai pinned repo, gunakan fitur "Pin repositories" 
 ![Antigravity](https://img.shields.io/badge/Antigravity-Code_Review_%26_Debug-1E90FF?style=for-the-badge)
 ![Hermes](https://img.shields.io/badge/Hermes-Autonomous_MCP_Monitoring-FF8C00?style=for-the-badge)
 
-> 🧠 **Cara kerja gue dengan AI Agent:**
+> 🧠 **Cara kerja memperbudak dengan AI Agent:**
 > - **Trae** → orkestrasi multi-agent untuk mempercepat proses development (planning, coding, iterasi).
 > - **Antigravity** → workspace utama untuk memantau hasil kerja agent, review code, dan fix bug.
 > - **Hermes** → agent otonom yang memonitor log/error secara real-time lewat MCP (contoh: monitoring log GCP via MCP GCP), sehingga issue produksi bisa terdeteksi lebih cepat.
