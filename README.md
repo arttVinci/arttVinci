@@ -63,7 +63,9 @@ Kalau mau tampil otomatis sebagai pinned repo, gunakan fitur "Pin repositories" 
 **AI-Agent Workflow**
 
 ![Trae](https://img.shields.io/badge/Trae-Multi--Agent_Workflow-8A2BE2?style=for-the-badge)
+
 ![Antigravity](https://img.shields.io/badge/Antigravity-Code_Review_%26_Debug-1E90FF?style=for-the-badge)
+
 ![Hermes](https://img.shields.io/badge/Hermes-Autonomous_MCP_Monitoring-FF8C00?style=for-the-badge)
 
 > 🧠 **Cara kerja memperbudak dengan AI Agent:**
@@ -74,9 +76,7 @@ Kalau mau tampil otomatis sebagai pinned repo, gunakan fitur "Pin repositories" 
 **Architecture & Practices**
 
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge)
-
 ![Layered Architecture](https://img.shields.io/badge/Layered_Architecture-2E8B57?style=for-the-badge)
-
 ![Modular Monolith](https://img.shields.io/badge/Modular_Monolith-4B0082?style=for-the-badge)
 
 ---
