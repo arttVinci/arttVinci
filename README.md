@@ -74,7 +74,9 @@ Kalau mau tampil otomatis sebagai pinned repo, gunakan fitur "Pin repositories" 
 **Architecture & Practices**
 
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge)
+
 ![Layered Architecture](https://img.shields.io/badge/Layered_Architecture-2E8B57?style=for-the-badge)
+
 ![Modular Monolith](https://img.shields.io/badge/Modular_Monolith-4B0082?style=for-the-badge)
 
 ---
