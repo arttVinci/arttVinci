@@ -13,11 +13,13 @@
 
 ---
 
+<!--
 ### 🚀 Featured Project
 
 > 📦 **[Nama Project Marketplace]** — Platform e-commerce fullstack yang menghubungkan Pembeli, Penjual, dan Driver dalam satu pasar, lengkap dengan peran Admin untuk monitoring. Dibangun dalam 5 hari untuk kompetisi, menggunakan multi-agent AI workflow sebagai tim development.
 >
 > 🔗 [Lihat Repository](#) &nbsp;|&nbsp; 🛠️ Golang (Fiber) · React · TypeScript · MySQL · Docker
+-->
 
 <!--
 Ganti link "#" di atas dengan URL repo kamu.
@@ -61,7 +63,7 @@ Kalau mau tampil otomatis sebagai pinned repo, gunakan fitur "Pin repositories" 
 
 **AI-Agent Workflow**
 
-![Trae](https://img.shields.io/badge/Trae-Multi--Agent_Workflow-8A2BE2?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
+![Trae](https://img.shields.io/badge/Trae-Multi--Agent_Workflow-8A2BE2?style=for-the-badge)
 ![Antigravity](https://img.shields.io/badge/Antigravity-Code_Review_%26_Debug-1E90FF?style=for-the-badge)
 ![Hermes](https://img.shields.io/badge/Hermes-Autonomous_MCP_Monitoring-FF8C00?style=for-the-badge)
 
@@ -80,8 +82,18 @@ Kalau mau tampil otomatis sebagai pinned repo, gunakan fitur "Pin repositories" 
 
 ### 📊 GitHub Stats
 
-![Putra's GitHub stats](https://github-readme-stats.vercel.app/api?username=arttVinci&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arttVinci&layout=compact&theme=dark)
+![Putra's GitHub stats](https://github-readme-stats.vercel.app/api?username=arttVinci&show_icons=true&theme=dark&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arttVinci&layout=compact&theme=dark&cache_seconds=1800)
+
+<!--
+Kalau gambar di atas masih broken (link putus), ini bukan salah markdown kamu — instance publik
+github-readme-stats.vercel.app memang sering kena rate-limit karena dipakai jutaan profil GitHub.
+Solusi paling stabil: self-host sendiri (gratis, deploy ke Vercel akun kamu):
+1. Fork repo: https://github.com/anuraghazra/github-readme-stats
+2. Deploy ke Vercel pakai akun kamu sendiri
+3. Ganti domain "github-readme-stats.vercel.app" di atas dengan domain hasil deploy kamu
+Biasanya cukup tunggu beberapa menit/refresh juga sering langsung normal lagi.
+-->
 
 ### 🐍 My Contributions
 
