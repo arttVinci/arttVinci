@@ -67,7 +67,7 @@ Kalau mau tampil otomatis sebagai pinned repo, gunakan fitur "Pin repositories" 
 > 🧠 **Cara kerja memperbudak dengan AI Agent:**
 > - **Trae** → orkestrasi multi-agent untuk mempercepat proses development (planning, coding, iterasi).
 > - **Antigravity** → workspace utama untuk memantau hasil kerja agent, review code, dan fix bug.
-> - **Hermes** → agent otonom yang memonitor log/error secara real-time lewat MCP (contoh: monitoring log GCP via MCP GCP), sehingga issue produksi bisa terdeteksi lebih cepat.
+> - **Hermes** → agent otonom yang memonitor log/error secara real-time lewat MCP, sehingga issue produksi bisa terdeteksi lebih cepat.
 
 **Architecture & Practices**
 
