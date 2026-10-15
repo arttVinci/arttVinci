@@ -6,25 +6,12 @@
 ---
 
 🔭 **Currently exploring:**
-* **Backend Development**: [**Golang (Fiber)**], [**PHP (Laravel)**]
-* **Frontend Technologies**: [**TypeScript**], [**JavaScript**], [**React**]
-* **Database & Cloud**: [**MySQL**], [**TiDB Cloud**], [**GCP**], [**Docker**]
-* **AI-Agent Workflow**: [**Trae**], [**Antigravity**], [**Hermes (Autonomous Log/MCP Monitoring)**]
+* **Backend Development**: [**Golang (Fiber)**], [**PHP (Laravel)**], 
+* **Frontend Technologies**: [**TypeScript**], [**JavaScript**], [**React**], [**Next.js**], [**Vite**]
+* **Database & Cloud**: [**MySQL**], [**PostgreSQL**], [**Redis**], [**Qdrant**], [**TiDB Cloud**], [**GCP**], [**Docker**]
+* **AI Concepts**: [**RAG**], [**LangGraph**], [**MCP**]
 
 ---
-
-<!--
-### 🚀 Featured Project
-
-> 📦 **[Nama Project Marketplace]** — Platform e-commerce fullstack yang menghubungkan Pembeli, Penjual, dan Driver dalam satu pasar, lengkap dengan peran Admin untuk monitoring. Dibangun dalam 5 hari untuk kompetisi, menggunakan multi-agent AI workflow sebagai tim development.
->
-> 🔗 [Lihat Repository](#) &nbsp;|&nbsp; 🛠️ Golang (Fiber) · React · TypeScript · MySQL · Docker
--->
-
-<!--
-Ganti link "#" di atas dengan URL repo kamu.
-Kalau mau tampil otomatis sebagai pinned repo, gunakan fitur "Pin repositories" bawaan GitHub di bagian atas profil.
--->
 
 ### < /> Tech Stack
 
@@ -46,34 +33,27 @@ Kalau mau tampil otomatis sebagai pinned repo, gunakan fitur "Pin repositories" 
 **Frontend & Styling**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 **DevOps & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
 ![TiDB Cloud](https://img.shields.io/badge/TiDB_Cloud-EB0029?style=for-the-badge&logo=pingcap&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflarepages&logoColor=white)
 
-**AI-Agent Workflow**
+**AI Concepts**
 
-![Trae](https://img.shields.io/badge/Trae-Multi--Agent_Workflow-8A2BE2?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented_Generation-8A2BE2?style=for-the-badge)
 
-![Antigravity](https://img.shields.io/badge/Antigravity-Code_Review_%26_Debug-1E90FF?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-Agent_Orchestration-1E90FF?style=for-the-badge)
 
-![Hermes](https://img.shields.io/badge/Hermes-Autonomous_MCP_Monitoring-FF8C00?style=for-the-badge)
-
-> 🧠 **Cara kerja memperbudak dengan AI Agent:**
-> - **Trae** → orkestrasi multi-agent untuk mempercepat proses development (planning, coding, iterasi).
-> - **Antigravity** → workspace utama untuk memantau hasil kerja agent, review code, dan fix bug.
-> - **Hermes** → agent otonom yang memonitor log/error secara real-time lewat MCP, sehingga issue produksi bisa terdeteksi lebih cepat.
-
-**Architecture & Practices**
-
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-000000?style=for-the-badge)
-![Layered Architecture](https://img.shields.io/badge/Layered_Architecture-2E8B57?style=for-the-badge)
-![Modular Monolith](https://img.shields.io/badge/Modular_Monolith-4B0082?style=for-the-badge)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-FF8C00?style=for-the-badge)
 
 ---
 
