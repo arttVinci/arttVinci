@@ -51,14 +51,6 @@
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflarepages&logoColor=white)
 
-**AI Concepts**
-
-![RAG](https://img.shields.io/badge/RAG-Retrieval--Augmented_Generation-8A2BE2?style=for-the-badge)
-
-![LangGraph](https://img.shields.io/badge/LangGraph-Agent_Orchestration-1E90FF?style=for-the-badge)
-
-![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-FF8C00?style=for-the-badge)
-
 ---
 
 ### 📊 GitHub Stats
