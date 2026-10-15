@@ -5,11 +5,15 @@
 
 ---
 
-🔭 **Currently exploring:**
-* **Backend Development**: [**Golang (Fiber)**], [**PHP (Laravel)**], 
-* **Frontend Technologies**: [**TypeScript**], [**JavaScript**], [**React**], [**Next.js**], [**Vite**]
-* **Database & Cloud**: [**MySQL**], [**PostgreSQL**], [**Redis**], [**Qdrant**], [**TiDB Cloud**], [**GCP**], [**Docker**]
-* **AI Concepts**: [**RAG**], [**LangGraph**], [**MCP**]
+🔭 Currently exploring:
+- **AI Agents & Architecture:** [LangGraph], [Agentic Workflows & Routing], [MCP (Model Context Protocol)], [Advanced RAG]
+- **Computer Vision & Biometrics:** [Face Embeddings & Recognition (InsightFace / DeepFace)], [Vector Similarity Search]
+- **IoT & Robotics:** [ESP32 Microcontrollers], [LoRa Communication], [Sensor Integration], [Edge AI]
+
+---
+
+### 💭 Fun Fact
+> *"Sebenernya males ngomding, mending scroll medsos terus sampai jadi **CSO (Chief Scrolling Officer)**."*
 
 ---
 
