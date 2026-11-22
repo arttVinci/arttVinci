@@ -53,10 +53,9 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🐍 My Contributions
 
-![Putra's GitHub stats](https://github-readme-stats.vercel.app/api?username=arttVinci&show_icons=true&theme=dark&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arttVinci&layout=compact&theme=dark&cache_seconds=1800)
+![GitHub Snake Dark](https://raw.githubusercontent.com/arttVinci/arttVinci/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 <!--
 Kalau gambar di atas masih broken (link putus), ini bukan salah markdown kamu — instance publik
@@ -67,10 +66,11 @@ Solusi paling stabil: self-host sendiri (gratis, deploy ke Vercel akun kamu):
 3. Ganti domain "github-readme-stats.vercel.app" di atas dengan domain hasil deploy kamu
 Biasanya cukup tunggu beberapa menit/refresh juga sering langsung normal lagi.
 -->
+### 📊 GitHub Stats
 
-### 🐍 My Contributions
+![Putra's GitHub stats](https://github-readme-stats.vercel.app/api?username=arttVinci&show_icons=true&theme=dark&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arttVinci&layout=compact&theme=dark&cache_seconds=1800)
 
-![GitHub Snake Dark](https://raw.githubusercontent.com/arttVinci/arttVinci/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
